@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_hPa_weather/static/css/main.d3984da9.css",
+    "main.js": "/React_hPa_weather/static/js/main.9a9306ea.js",
+    "index.html": "/React_hPa_weather/index.html",
+    "main.d3984da9.css.map": "/React_hPa_weather/static/css/main.d3984da9.css.map",
+    "main.9a9306ea.js.map": "/React_hPa_weather/static/js/main.9a9306ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3984da9.css",
+    "static/js/main.9a9306ea.js"
+  ]
+}
